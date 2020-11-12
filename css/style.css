@@ -459,7 +459,7 @@ a.readmore_bt {
 ---------------------------------------------------------------------*/
 
 header {
-    background: #0a6315;
+    background: #ffcc01;
     min-height: 122px;
 
 }
@@ -487,7 +487,7 @@ nav.main-menu {
 
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
-	color: yellow;
+	color: #745e04;
 }
 
 .menu-area-main li.active a {
